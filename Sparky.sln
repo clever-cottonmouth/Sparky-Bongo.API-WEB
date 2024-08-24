@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BongoWeb", "BongoWeb", "{D8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bongo.Models.Tests", "Bongo.Models.Tests\Bongo.Models.Tests.csproj", "{6502E6F1-A4B4-4F9E-8A51-95FB9A7BA652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.DataAccess.Tests", "Bongo.DataAccess.Tests\Bongo.DataAccess.Tests.csproj", "{EB1388C9-3C28-4BCB-944B-B0529453D0E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bongo.DataAccess.Tests", "Bongo.DataAccess.Tests\Bongo.DataAccess.Tests.csproj", "{EB1388C9-3C28-4BCB-944B-B0529453D0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Core.Tests", "Bongo.Core.Tests\Bongo.Core.Tests.csproj", "{A303B2BF-D08E-4E20-B414-B124696274E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{EB1388C9-3C28-4BCB-944B-B0529453D0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB1388C9-3C28-4BCB-944B-B0529453D0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB1388C9-3C28-4BCB-944B-B0529453D0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A303B2BF-D08E-4E20-B414-B124696274E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A303B2BF-D08E-4E20-B414-B124696274E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A303B2BF-D08E-4E20-B414-B124696274E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A303B2BF-D08E-4E20-B414-B124696274E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,6 +62,7 @@ Global
 		{B4D52566-0803-4E1F-9D3C-6687BFC046B3} = {D8F0F67E-1EAD-4E3F-AE32-AF8318953D4D}
 		{26E8B42A-6C7C-4C0F-99AC-002040C8EF62} = {D8F0F67E-1EAD-4E3F-AE32-AF8318953D4D}
 		{EB1388C9-3C28-4BCB-944B-B0529453D0E5} = {D8F0F67E-1EAD-4E3F-AE32-AF8318953D4D}
+		{A303B2BF-D08E-4E20-B414-B124696274E3} = {D8F0F67E-1EAD-4E3F-AE32-AF8318953D4D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBE55F16-4C7B-4DDA-ADF7-23A4286A2805}

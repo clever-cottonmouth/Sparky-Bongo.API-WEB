@@ -1,6 +1,12 @@
 # Sparky
 
 A .NET solution organized using clean architecture principles.
+<img src="https://res.cloudinary.com/dj6ebo4as/image/upload/v1748784029/GithubProject/bongo/gnw3wg2cf0gj7i0wyy1c.png"/>
+<img src="https://res.cloudinary.com/dj6ebo4as/image/upload/v1748784028/GithubProject/bongo/qo0rkibckdptppszyozx.png"/>
+<img src="https://res.cloudinary.com/dj6ebo4as/image/upload/v1748784028/GithubProject/bongo/vqphslgmr7he4pzvupit.png"/>
+<img src="https://res.cloudinary.com/dj6ebo4as/image/upload/v1748784028/GithubProject/bongo/iyma34pgswtwdc4rucva.png"/>
+<img src="https://res.cloudinary.com/dj6ebo4as/image/upload/v1748784029/GithubProject/bongo/hco0x2ggbwsqem0wtfft.png"/>
+
 
 ## Project Structure
 
